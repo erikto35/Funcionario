@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Funcionario</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="menu_inicio">inicio</string>
+    <string name="menu_informe">infromação</string>
+    <string name="menu_ajuda">ajuda</string>
+</resources>
